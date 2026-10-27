@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Catalog.aps_ЭлементыСправочников" id="1f501737-e644-4acd-b003-a264b0c3ef3c" configVersion="bdc720d9ed934d271350f308b750bd841ceba874"/>
+		<Metadata name="CommonModule._кадИнтеграцияВызов" id="872b5aaa-30e2-4b98-aa00-ea3624010460" configVersion="1e87521653f11d09bbf26e5ea5589ab6956e9180"/>
+		<Metadata name="CommonModule._кадИнтеграцияВызов.Module" id="872b5aaa-30e2-4b98-aa00-ea3624010460.0" configVersion="a05ae202ffbfd8ff45fe41f403c8f574f5a7497d"/>
+		<Metadata name="CommonModule.ИнтеграцияCADHTTP" id="712be070-c46a-4129-a634-66df292a1632" configVersion="a92e188b2e7292f6f0afa86e8fb58587d7e5e8c9"/>
+		<Metadata name="CommonModule.ИнтеграцияCADHTTP.Module" id="712be070-c46a-4129-a634-66df292a1632.0" configVersion="c7eeb662ef5389e7ceaceebd1a53d87ba56d1c51"/>
+		<Metadata name="CommonModule.СозданиеНоменклатурыСервер" id="0809df50-2531-4544-95ba-20e09ffe6b6e" configVersion="f4f3e8b6b7eaafd3c55ee020adecc50a58cc7467"/>
+		<Metadata name="CommonModule.СозданиеНоменклатурыСервер.Module" id="0809df50-2531-4544-95ba-20e09ffe6b6e.0" configVersion="bb5a1f852e20167a8804df081b9da838fcdedc27"/>
+		<Metadata name="Configuration.кадИнтеграция" id="a73c6d77-9e85-429f-b35e-11869be3eef9" configVersion="e3efb67d1f0487e795ef11efc25a25c87175897a"/>
+		<Metadata name="HTTPService.ИнтеграцияCADHTTPСервис" id="97b86f95-4833-44b8-9e57-c586c232c3b1" configVersion="3fbb9681fc27a926d3a5ad72bf4b3743b4892d5a">
+			<Metadata name="HTTPService.ИнтеграцияCADHTTPСервис.URLTemplate.СоздатьИзделие" id="63100219-bade-4380-bb12-b9f04b956520"/>
+			<Metadata name="HTTPService.ИнтеграцияCADHTTPСервис.URLTemplate.СоздатьИзделие.Method.POST" id="93bb95be-93f0-47ca-abb1-3da02586ccec"/>
+		</Metadata>
+		<Metadata name="HTTPService.ИнтеграцияCADHTTPСервис.Module" id="97b86f95-4833-44b8-9e57-c586c232c3b1.0" configVersion="65939fec090c9c477a5c2f382fa5468ade812681"/>
+		<Metadata name="Language.Русский" id="de748ee6-b5c0-4ad0-a13d-e8ab5de22be3" configVersion="a845055b360c54caad7cd2223a7cbeaf21985633"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
