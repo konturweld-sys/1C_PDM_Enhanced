@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<Catalog uuid="1f501737-e644-4acd-b003-a264b0c3ef3c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.aps_ЭлементыСправочников" category="Object">
+				<xr:TypeId>d924eb13-66ea-4ea2-9282-4dd4da7d6abe</xr:TypeId>
+				<xr:ValueId>37081c03-5372-47a2-baf5-18ee2a7167dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.aps_ЭлементыСправочников" category="Ref">
+				<xr:TypeId>59b75d71-2922-484e-af54-8fcfc423fe3d</xr:TypeId>
+				<xr:ValueId>df02d91f-bc5b-40fe-bd38-577f7e50254d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.aps_ЭлементыСправочников" category="Selection">
+				<xr:TypeId>b28c644f-58c3-42ad-b62d-6d7c6d0f0a73</xr:TypeId>
+				<xr:ValueId>eb98c736-5a24-4080-99cc-27be9d805b09</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.aps_ЭлементыСправочников" category="List">
+				<xr:TypeId>579b1f88-598d-49da-8a6a-f10efc2bc80c</xr:TypeId>
+				<xr:ValueId>a31d69fe-8f19-44d7-83c4-bc14be9d20c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.aps_ЭлементыСправочников" category="Manager">
+				<xr:TypeId>97013a8c-baa5-4232-9ccd-0ff945fffdd8</xr:TypeId>
+				<xr:ValueId>597be3a6-f9b6-4bc0-aa49-e4c4902bd3f8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>aps_ЭлементыСправочников</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
