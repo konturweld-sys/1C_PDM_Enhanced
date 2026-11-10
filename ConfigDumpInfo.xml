@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Catalog.aps_ЭлементыСправочников" id="1f501737-e644-4acd-b003-a264b0c3ef3c" configVersion="bdc720d9ed934d271350f308b750bd841ceba874"/>
+		<Metadata name="Catalog.Номенклатура" id="ef9526f2-eaa0-40aa-b068-be3f01cfe384" configVersion="0f44b40a95a43259ca345aa99f34f1e954f54d5b"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="ef9526f2-eaa0-40aa-b068-be3f01cfe384.0" configVersion="2124386c92b4918a6f954bdba6c43787524992e5"/>
+		<Metadata name="CommonModule._кадИнтеграцияВызов" id="872b5aaa-30e2-4b98-aa00-ea3624010460" configVersion="1e87521653f11d09bbf26e5ea5589ab6956e9180"/>
+		<Metadata name="CommonModule._кадИнтеграцияВызов.Module" id="872b5aaa-30e2-4b98-aa00-ea3624010460.0" configVersion="0a6c44a3b518246bd5e4809d691c928ffdea9d3d"/>
+		<Metadata name="CommonModule.ПДМ_ЖурналИнтеграции" id="7f47e2b6-c371-46f9-82d5-78da07b89e90" configVersion="00fad848b84af4c5058bf19789a887c150242245"/>
+		<Metadata name="CommonModule.ПДМ_ЖурналИнтеграции.Module" id="7f47e2b6-c371-46f9-82d5-78da07b89e90.0" configVersion="9f78e2cbce87a7871d525c2fcfe69994b487ea90"/>
+		<Metadata name="CommonModule.ПДМ_ИнтеграцияRabbitMQ" id="120f0f7f-16a1-4132-b9e7-2a6d86fa9e8c" configVersion="a86222d02ddc031821c0f262a209f58123a1878c"/>
+		<Metadata name="CommonModule.ПДМ_ИнтеграцияRabbitMQ.Module" id="120f0f7f-16a1-4132-b9e7-2a6d86fa9e8c.0" configVersion="916630831d887a472c4f253a5909d598e40070ef"/>
+		<Metadata name="CommonModule.ПДМ_МониторингСвязиRabbitMQ" id="dcee531e-6d24-4906-a855-d9fed64a2b90" configVersion="246b9c70e7f9864ad8ca98ae6a22f9ae482130c1"/>
+		<Metadata name="CommonModule.ПДМ_МониторингСвязиRabbitMQ.Module" id="dcee531e-6d24-4906-a855-d9fed64a2b90.0" configVersion="40efa448c777d01c3752f6dcc8d8b35d16faaf63"/>
+		<Metadata name="CommonModule.ПДМ_РегламентныеЗаданияСервер" id="21b5b242-3820-4822-8c5d-a5d21f17fd70" configVersion="4da1a26a634f15b9ed29092d910915ee341d2685"/>
+		<Metadata name="CommonModule.ПДМ_РегламентныеЗаданияСервер.Module" id="21b5b242-3820-4822-8c5d-a5d21f17fd70.0" configVersion="d05a0743b03ef196e6fd92c5716aa87a3bee0f4d"/>
+		<Metadata name="CommonModule.ПДМ_ЧтениеСтатусовИзERP" id="5a5247b9-405b-49ed-bcac-72a60f1ab3ce" configVersion="e150424878d940aa91ebf70a5a3b008f0e17f310"/>
+		<Metadata name="CommonModule.ПДМ_ЧтениеСтатусовИзERP.Module" id="5a5247b9-405b-49ed-bcac-72a60f1ab3ce.0" configVersion="1147d7a6f83e04d9f22ba38906a04d941d327a56"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ" id="5632a8cd-82cb-4a65-a6be-5e740a8cd0eb" configVersion="4d064c87d907926c42f6b90e5ccd796d2b7c137e"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ.Template" id="5632a8cd-82cb-4a65-a6be-5e740a8cd0eb.0" configVersion="8d853025b907248c6bbb3ed80705f326cfe26eb5"/>
+		<Metadata name="Configuration.кадИнтеграция" id="a73c6d77-9e85-429f-b35e-11869be3eef9" configVersion="861c03522f83290e3adace4f7dcd83f532e251e1"/>
+		<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ" id="99ca044b-8d40-447d-83d2-ab9589b730dd" configVersion="13f85ac0de0184a025bbff2357b920096aca8d3f">
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.Пользователь" id="0e1a99c4-b818-4350-ba18-6834586ab046"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.ВиртуальныйХост" id="4d928c4f-eb40-486f-a570-079831b8504a"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.TelegramТокенБота" id="72a76c28-5912-4a27-ad28-6e045f1d9f55"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.Сервер" id="82ae5a79-1784-43aa-97b5-42d2a5950d17"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.Порт" id="901ce226-2b9a-48ff-870d-2d937e093148"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.TelegramIDЧАТА" id="a1c3802d-4c8b-4177-b8f7-cd2225107bec"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.Пароль" id="a7ba6d93-1556-435b-a10d-ee60f67c477a"/>
+			<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Attribute.ИспользоватьОповещения" id="ccbab946-6f96-49ba-86c9-692552693ebd"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Form.Форма" id="fec858f8-b91a-424c-856e-4178ee3dd020" configVersion="d2e2eb79c4693ce17bde9c064742b46d7800a4d3"/>
+		<Metadata name="DataProcessor.ПДМ_НастройкаИнтеграцииRabbitMQ.Form.Форма.Form" id="fec858f8-b91a-424c-856e-4178ee3dd020.0" configVersion="9282eb81817a61258c4e440052847c6aabd8993c"/>
+		<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ" id="4e2ccf42-e16e-41d5-ad82-b6dfa8146020" configVersion="44955829f8101ee02a8a6666f407188fbc273e7a">
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.Пароль" id="104b9f77-2ded-4dae-a3f5-53a3497040c5"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.Сервер" id="19d01225-f52f-4608-8f2f-1ed236dbe417"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.Пользователь" id="36b224d6-0fc7-4082-9e5c-5f727b3279de"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.Порт" id="40aafcd4-5457-4d2e-a2f9-58ce68df0507"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.TelegramIDЧАТА" id="72be3158-f1ea-49eb-ad36-4a2f51dbb841"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.TelegramТокенБота" id="8c8f8271-f139-4f6f-95c6-a4b2dc2b8250"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.ИспользоватьОповещения" id="a2c37ffc-c1cb-47c4-ae80-9a5732e848ac"/>
+			<Metadata name="InformationRegister.ПДМ_НастройкиИнтеграцииRabbitMQ.Resource.ВиртуальныйХост" id="a4983779-eb2c-4738-8154-6e08805b8240"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP" id="30771e9a-f57c-4de2-83d0-a294eddba2e5" configVersion="44435cda5310855e37b67bdf00f7b6006529074b">
+			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Dimension.Номенклатура" id="35769f6d-7e1c-4486-bbc2-937a79ae9ee7"/>
+			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Resource.ДатаОбновления" id="cbbc3da9-2925-40f8-aa70-06636e7c1eff"/>
+			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Resource.ОписаниеОшибки" id="e5712df7-b7d7-4411-a307-36a10f38c9c7"/>
+			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Resource.Статус" id="ff4f7413-e5c0-4919-a823-020665bfc9cb"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ" id="3ded8eb0-ec51-4ea0-8d1d-2435f99d6e69" configVersion="7fc040214a5c3fd0198bd2112ca4fb145633b8e1">
+			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.ДатаПоследнейОшибки" id="257ace41-48af-4c1c-b8fc-3ad8128f18d8"/>
+			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.КоличествоОшибокПодряд" id="a65c217d-8715-4eee-915f-89d821dbf87d"/>
+			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.УведомлениеОтправлено" id="fb83c9a7-8173-40c0-ae03-db2b734bc6e9"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="de748ee6-b5c0-4ad0-a13d-e8ab5de22be3" configVersion="a845055b360c54caad7cd2223a7cbeaf21985633"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
