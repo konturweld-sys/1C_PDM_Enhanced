@@ -53,11 +53,19 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonTemplate>PinkRabbitMQ</CommonTemplate>
 			<CommonModule>_кадИнтеграцияВызов</CommonModule>
-			<CommonModule>ИнтеграцияCADHTTP</CommonModule>
-			<CommonModule>СозданиеНоменклатурыСервер</CommonModule>
-			<HTTPService>ИнтеграцияCADHTTPСервис</HTTPService>
+			<CommonModule>ПДМ_ИнтеграцияRabbitMQ</CommonModule>
+			<CommonModule>ПДМ_МониторингСвязиRabbitMQ</CommonModule>
+			<CommonModule>ПДМ_ЧтениеСтатусовИзERP</CommonModule>
+			<CommonModule>ПДМ_РегламентныеЗаданияСервер</CommonModule>
+			<CommonModule>ПДМ_ЖурналИнтеграции</CommonModule>
 			<Catalog>aps_ЭлементыСправочников</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<DataProcessor>ПДМ_НастройкаИнтеграцииRabbitMQ</DataProcessor>
+			<InformationRegister>ПДМ_НастройкиИнтеграцииRabbitMQ</InformationRegister>
+			<InformationRegister>ПДМ_СчетчикСбоевСвязиRabbitMQ</InformationRegister>
+			<InformationRegister>ПДМ_СтатусыСинхронизацииСERP</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
