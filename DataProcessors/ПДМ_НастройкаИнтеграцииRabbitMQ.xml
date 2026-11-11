@@ -225,7 +225,7 @@
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Telegram токен бота</v8:content>
+							<v8:content>Устарело: Telegram настроен централизованно в ERP</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -263,7 +263,7 @@
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Telegram IDЧАТА</v8:content>
+							<v8:content>Устарело: Telegram chat_id хранится в ERP</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -301,7 +301,7 @@
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Использовать оповещения</v8:content>
+							<v8:content>Устарело: уведомления управляются в ERP</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
