@@ -10,8 +10,6 @@
 		<Metadata name="CommonModule.ПДМ_ЖурналИнтеграции.Module" id="7f47e2b6-c371-46f9-82d5-78da07b89e90.0" configVersion="9f78e2cbce87a7871d525c2fcfe69994b487ea90"/>
 		<Metadata name="CommonModule.ПДМ_ИнтеграцияRabbitMQ" id="120f0f7f-16a1-4132-b9e7-2a6d86fa9e8c" configVersion="a86222d02ddc031821c0f262a209f58123a1878c"/>
 		<Metadata name="CommonModule.ПДМ_ИнтеграцияRabbitMQ.Module" id="120f0f7f-16a1-4132-b9e7-2a6d86fa9e8c.0" configVersion="916630831d887a472c4f253a5909d598e40070ef"/>
-		<Metadata name="CommonModule.ПДМ_МониторингСвязиRabbitMQ" id="dcee531e-6d24-4906-a855-d9fed64a2b90" configVersion="246b9c70e7f9864ad8ca98ae6a22f9ae482130c1"/>
-		<Metadata name="CommonModule.ПДМ_МониторингСвязиRabbitMQ.Module" id="dcee531e-6d24-4906-a855-d9fed64a2b90.0" configVersion="40efa448c777d01c3752f6dcc8d8b35d16faaf63"/>
 		<Metadata name="CommonModule.ПДМ_РегламентныеЗаданияСервер" id="21b5b242-3820-4822-8c5d-a5d21f17fd70" configVersion="4da1a26a634f15b9ed29092d910915ee341d2685"/>
 		<Metadata name="CommonModule.ПДМ_РегламентныеЗаданияСервер.Module" id="21b5b242-3820-4822-8c5d-a5d21f17fd70.0" configVersion="d05a0743b03ef196e6fd92c5716aa87a3bee0f4d"/>
 		<Metadata name="CommonModule.ПДМ_ЧтениеСтатусовИзERP" id="5a5247b9-405b-49ed-bcac-72a60f1ab3ce" configVersion="e150424878d940aa91ebf70a5a3b008f0e17f310"/>
@@ -47,11 +45,6 @@
 			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Resource.ОписаниеОшибки" id="e5712df7-b7d7-4411-a307-36a10f38c9c7"/>
 			<Metadata name="InformationRegister.ПДМ_СтатусыСинхронизацииСERP.Resource.Статус" id="ff4f7413-e5c0-4919-a823-020665bfc9cb"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ" id="3ded8eb0-ec51-4ea0-8d1d-2435f99d6e69" configVersion="7fc040214a5c3fd0198bd2112ca4fb145633b8e1">
-			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.ДатаПоследнейОшибки" id="257ace41-48af-4c1c-b8fc-3ad8128f18d8"/>
-			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.КоличествоОшибокПодряд" id="a65c217d-8715-4eee-915f-89d821dbf87d"/>
-			<Metadata name="InformationRegister.ПДМ_СчетчикСбоевСвязиRabbitMQ.Resource.УведомлениеОтправлено" id="fb83c9a7-8173-40c0-ae03-db2b734bc6e9"/>
-		</Metadata>
-		<Metadata name="Language.Русский" id="de748ee6-b5c0-4ad0-a13d-e8ab5de22be3" configVersion="a845055b360c54caad7cd2223a7cbeaf21985633"/>
+				<Metadata name="Language.Русский" id="de748ee6-b5c0-4ad0-a13d-e8ab5de22be3" configVersion="a845055b360c54caad7cd2223a7cbeaf21985633"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
