@@ -58,6 +58,7 @@
 			<CommonModule>ПДМ_ИнтеграцияRabbitMQ</CommonModule>
 			<CommonModule>ПДМ_ЧтениеСтатусовИзERP</CommonModule>
 			<CommonModule>ПДМ_РегламентныеЗаданияСервер</CommonModule>
+			<ScheduledJob>ПДМ_СинхронизацияВидовНоменклатуры</ScheduledJob>
 			<CommonModule>ПДМ_ЖурналИнтеграции</CommonModule>
 			<Catalog>aps_ЭлементыСправочников</Catalog>
 			<Catalog>Номенклатура</Catalog>
