@@ -28,11 +28,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>кадИнтеграция</Name>
+			<Name>Интеграция</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Интеграция CAD</v8:content>
+					<v8:content>Интеграция</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -46,7 +46,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version/>
+			<Version>1.00.0</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<InterfaceCompatibilityMode>Version8_2</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_12</CompatibilityMode>
@@ -54,7 +54,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonTemplate>PinkRabbitMQ</CommonTemplate>
-			<CommonModule>_кадИнтеграцияВызов</CommonModule>
+			<CommonModule>ПДМ_ИнтеграцияВызов</CommonModule>
+		<CommonModule>_кадИнтеграцияВызов</CommonModule>
 			<CommonModule>ПДМ_ИнтеграцияRabbitMQ</CommonModule>
 			<CommonModule>ПДМ_ЧтениеСтатусовИзERP</CommonModule>
 			<CommonModule>ПДМ_РегламентныеЗаданияСервер</CommonModule>
