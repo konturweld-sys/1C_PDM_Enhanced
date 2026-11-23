@@ -58,7 +58,7 @@
 			<CommonModule>ПДМ_ИнтеграцияRabbitMQ</CommonModule>
 			<CommonModule>ПДМ_ЧтениеСтатусовИзERP</CommonModule>
 			<CommonModule>ПДМ_РегламентныеЗаданияСервер</CommonModule>
-			<CommonModule>ПДМ_ЖурналИнтеграции</CommonModule>
+						<CommonModule>ПДМ_ЖурналИнтеграции</CommonModule>
 			<Catalog>aps_ЭлементыСправочников</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<DataProcessor>ПДМ_НастройкаИнтеграцииRabbitMQ</DataProcessor>
